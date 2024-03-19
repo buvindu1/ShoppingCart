@@ -1,0 +1,9 @@
+Product Type:Clothing
+productID:1
+productName:aa
+availableItems:11
+price:1111.00
+Size:aa
+colour:aa
+
+
